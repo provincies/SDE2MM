@@ -1,1 +1,7 @@
+versie 1.0.5
 
+de volgende wijzigingen zijn aangebracht:
+- overbodige data (commentaar, leveranciers tags, withheld, etc) wordt uit de xml verwijderd
+- de xml wordt voor de mens leesbaar gemaakt 
+- python versie 3.7 is gebruikt
+- gezamenlijke functies zijn in een externe librarie geplaatst
